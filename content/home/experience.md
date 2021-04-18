@@ -23,15 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Scientific Assistant (Post Doc)
-    company: Chair of Applied Mathematics II, Friedrich \- Alexander \- Universit &auml t Erlangen \- N &uuml rnberg
+    company: Chair of Applied Mathematics II, Friedrich\-Alexander\-Universit&aumlt Erlangen\-N&uumlrnberg
     company_url: <https://en.www.math.fau.de/angewandte-mathematik-2/>
     company_logo: org-gc
-    location: Erlangen-N &uuml rnberg, Germany
+    location: Erlangen-N&uumlrnberg, Germany
     date_start: '2019-09-01'
     date_end: ''
     # description:  |2-
        # Responsibilities include:
-    description:  a member of the DFG-project “ Damage modeling and optimal control” conducted at the chair of Applied Mathematics II, Prof \. Dr \. G &uuml nter Leugering.
+    description:  a member of the DFG-project “ Damage modeling and optimal control” conducted at the chair of Applied Mathematics II, Prof\.Dr\. G&uumlnter Leugering.
        # * Analysing
        # * Modelling
        # * Deploying
