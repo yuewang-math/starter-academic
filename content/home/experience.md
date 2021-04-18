@@ -36,7 +36,7 @@ experience:
        # * Modelling
        # * Deploying
         
-  - title: Counselor \(part\-time\)
+  - title: Counselor (part\-time)
     company: Fudan University
     company_url: ''
     company_logo: org-x
@@ -61,14 +61,14 @@ experience:
        * Functional Analysis, Sep\. 2015\- Jan\. 2016  
      
       Assistant Manager: 
-       * Fudan University Library \- Mathematics Library, Sep\. 2016\- Jan\. 2017
+       * Fudan University Library\-Mathematics Library, Sep\. 2016\- Jan\. 2017
    
-   - title: Mathematics Teacher \(part\-time\)
+   - title: Mathematics Teacher (part\-time)
     company: Fudan International School
     location: Shanghai, China
     date_start: '2017-11-01'
     date_end: '2018-07-01'
-    description: Subject: IB Diploma Programme \- MATHEMATICS STANDARD LEVEL\. For Grade 11\.
+    description: Subject\: IB Diploma Programme \- MATHEMATICS STANDARD LEVEL\. For Grade 11\.
       
 design:
   columns: '2'
