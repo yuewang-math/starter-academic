@@ -41,7 +41,7 @@ featured: true
 
 # Custom links (uncomment lines below)
  links:
- - name: Custom Link for the published one in English Version. Autoren: Li, Tatsien, Rao, Bopeng.
+ - name: Custom Link for the published one in English Version. Li Tatsien, Rao Bopeng.
    url: https://www.springer.com/de/book/9783030328481
 
 url_pdf: ''
