@@ -40,9 +40,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link for the published one in English Version. Li Tatsien, Rao Bopeng.
-   url: ’https://www.springer.com/de/book/9783030328481‘
+# links:
+# - name: Custom Link for the published one in English Version. Li Tatsien, Rao Bopeng.
+#   url: ’https://www.springer.com/de/book/9783030328481‘
 
 url_pdf: ''
 url_code: ''
@@ -84,4 +84,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+You can find the published book in English (Li Tatsien, Rao Bopeng) here, https://www.springer.com/de/book/9783030328481.
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
