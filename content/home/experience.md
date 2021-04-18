@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Beyond Education
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -48,6 +48,19 @@ experience:
        * Designated as the graduates Counselor of Year 2017 in School of Mathematical Sciences, Fudan University.
        * Led 88 Science degree graduates.
 
+  - title: Teaching Assistant &amp Assistant Manager
+    company: School of Mathematical Sciences, Fudan University
+    location: Shanghai, China
+    date_start: '2015-09-01'
+    date_end: '2019-01-30'
+    description: |2-
+      Teaching Assistant:
+       * Modern Partial Differential Equations &lparGraduate Course\rpar, Sep\. 2018\- Jan\. 2019
+       * Numerical Solutions of Differential Equations, Mar\. 2017\- Jul\. 2017
+       * Equations of Mathematical Physics, Mar\. 2016\- Jul\. 2016
+       * Functional Analysis, Sep\. 2015\- Jan\. 2016
+      Assistant Manager: Fudan University Library \- Mathematics Library, Sep\. 2016\- Jan\. 2017
+      
 design:
   columns: '2'
 ---
