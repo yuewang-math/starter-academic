@@ -68,7 +68,7 @@ experience:
     location: Shanghai, China
     date_start: '2017-11-01'
     date_end: '2018-07-01'
-    description: Subject: IB Diploma Programme - MATHEMATICS STANDARD LEVEL. For Grade 11.
+    description: Subject: IB Diploma Programme \- MATHEMATICS STANDARD LEVEL\. For Grade 11\.
       
 design:
   columns: '2'
