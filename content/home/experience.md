@@ -59,6 +59,7 @@ experience:
        * Numerical Solutions of Differential Equations, Mar\. 2017\- Jul\. 2017
        * Equations of Mathematical Physics, Mar\. 2016\- Jul\. 2016
        * Functional Analysis, Sep\. 2015\- Jan\. 2016  
+     
       Assistant Manager: 
        * Fudan University Library\-Mathematics Library, Sep\. 2016\- Jan\. 2017
    
@@ -67,7 +68,10 @@ experience:
     location: Shanghai, China
     date_start: '2017-11-01'
     date_end: '2018-07-01'
-   # description: Subject\: IB Diploma Programme \- MATHEMATICS STANDARD LEVEL\. For Grade 11\.
+    description: |2-
+      Subject:
+      * IB Diploma Programme-Mathematics Standard level.  Grada 11.
+   
       
 design:
   columns: '2'
