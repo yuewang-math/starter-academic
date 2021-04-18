@@ -36,14 +36,17 @@ experience:
        # * Modelling
        # * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Counselor
+    company: Fudan University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shanghai, China
+    date_start: '2017-09-01'
+    date_end: '2019-06-30'
+    description: |2-
+       Responsibilities include:
+       * Designated as the graduates Counselor of Year 2017 in School of Mathematical Sciences, Fudan University.
+       * Led 88 Science degree graduates.
 
 design:
   columns: '2'
