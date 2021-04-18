@@ -72,7 +72,7 @@ Yue Wang is a PostDoc in applied mathematics, she is in the area of Partial Diff
 
 She was graduated from Fudan University with a bachelor's degree in Mathematics and Applied Mathematics in 2015, and entered the Shanghai Mathematics Center with a direct Ph.D. major in applied mathematics. He graduated one year earlier in 2019 and obtained his degree in June. In September of the same year, she went to Germany FAU (Erlangen-Nuremberg University) as a full-time research assistant (postdoctoral).
 
-# 2015年毕业于复旦大学数学与应用数学系本科，于本校直博进入上海数学中心应用数学专业，于2019年提前一年毕业并于6月取得博士学位。同年9月赴德国FAU(埃尔朗根-纽伦堡大学)担任2年的全职科研助理(博士后)。
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
