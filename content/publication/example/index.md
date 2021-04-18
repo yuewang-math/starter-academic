@@ -29,12 +29,10 @@ publication_types: ["5"]
 publication: to be published by *Shanghai Scientific and Technical Publishers*
 publication_short: to be published, *上海科技出版社* 
 
-abstract: This book is an academic translation (the Chinese edition) of the book of Tatsien Li and Bopeng Rao, *Boundary Sychronization for Hyperbolic Systems*, Progress in Nonlinear Differential Equations and Their Applications (PNLDE),
-Subseries in Control, Volume 94, Birkhäuser.
+abstract: This book is an academic translation (the Chinese edition) of the book of Tatsien Li and Bopeng Rao, *Boundary Sychronization for Hyperbolic Systems*, Progress in Nonlinear Differential Equations and Their Applications (PNLDE), Subseries in Control, Volume 94, Birkhäuser.
 
 # Summary. An optional shortened abstract.
-summary: This book is an academic translation (the Chinese edition) of the book of Tatsien Li and Bopeng Rao, *Boundary Sychronization for Hyperbolic Systems*, Progress in Nonlinear Differential Equations and Their Applications (PNLDE),
-Subseries in Control, Volume 94, Birkhäuser.
+summary: This book is an academic translation (the Chinese edition) of the book of Tatsien Li and Bopeng Rao, Boundary Sychronization for Hyperbolic Systems, Progress in Nonlinear Differential Equations and Their Applications (PNLDE), Subseries in Control, Volume 94, Birkhäuser.
 
 tags: []
 
