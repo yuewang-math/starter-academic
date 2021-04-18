@@ -58,7 +58,8 @@ experience:
        * Modern Partial Differential Equations &lparGraduate Course\rpar, Sep\. 2018\- Jan\. 2019
        * Numerical Solutions of Differential Equations, Mar\. 2017\- Jul\. 2017
        * Equations of Mathematical Physics, Mar\. 2016\- Jul\. 2016
-       * Functional Analysis, Sep\. 2015\- Jan\. 2016
+       * Functional Analysis, Sep\. 2015\- Jan\. 2016  
+     
       Assistant Manager: Fudan University Library \- Mathematics Library, Sep\. 2016\- Jan\. 2017
       
 design:
