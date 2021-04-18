@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: yue.wang@fau.de
-phone: (+49) 9131 85-67131
+phone: (+49) 9131 85 67131
 address:
   street: Cauerstraße 11
   city: Erlangen
@@ -29,15 +29,15 @@ address:
   postcode: '91058'
   country: Germany
   country_code: DE
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+#coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
 directions: Room 03.319
 office_hours:
   - 'Monday to Friday 10:00 to 18:00'
   # - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
+# contact_links:
  # - icon: twitter
  #   icon_pack: fab
  #   name: DM Me
@@ -51,9 +51,9 @@ contact_links:
  #   name: Chat on Keybase
  #   link: 'https://keybase.io/'
  
-  - icon: comments
-    icon_pack: fas
-    name: Find me in Wechat: wangyue3950
+ # - icon: comments
+ #   icon_pack: fas
+ #   name: Find me in Wechat: wangyue3950
    # link: 'https://discourse.gohugo.io'
 
 # Site header
