@@ -11,29 +11,29 @@ tagline:  Nolinear systems| Modelling & Analysis | Control Theory| Machine Learn
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Friedrich-Alexander-Universitaet Erlangen-Nuernberg
-  url: https://www.fau.de/
+- name: Department of MATHEMATICS. Friedrich-Alexander-Universit&aumlt Erlangen-N&uumlrnberg. 91058 Erlangen \- Germany
+  url: https://www.math.fau.de/
 # - name: Chair in Applied Analysis – Alexander von Humboldt
 #  url: https://caa-avh.nat.fau.eu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied PDEs, control design and machine learning.
+bio: My research interests include Applied Partial Differential Equations (PDEs), Modelling and Analysis, Control Design and Data Sciences.
 
 # Interests to show in About widget
 interests:
-- Dynamic Hyperbolic Systems
-- Controllablity and Observability
-- Synchronization Theory for PDEs
-- Machine Learning in PDE problems
+- Dynamic Hyperbolic Systems: Modelling, Analysis, Simulation
+- Controllablity and Observability: Math proof and Design
+- Synchronization Theory for PDEs: The Emerging Science of Spontaneous Order, related to Control Theory
+- Machine Learning in PDEs: based on our models (to do)
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D of Natural Science in Applied Mathematics
-    institution: Shanghai Center for Mathematics Sciences, Fudan University
+    institution: [Shanghai Center for Mathematics Sciences, Fudan University](http://www.scms.fudan.edu.cn/)
     year: 2015-2019
-  - course: Bachelor Degree of Science, Mathematics and Applied Mathematics
-    institution: Fudan University
+  - course: Bachelor of Science, Mathematics and Applied Mathematics
+    institution: [Fudan University](https://math.fudan.edu.cn/)
     year: 2011-2015
 
 # Social/Academic Networking
