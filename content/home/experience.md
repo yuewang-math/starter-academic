@@ -31,7 +31,7 @@ experience:
     date_end: ''
     # description:  |2-
        # Responsibilities include:
-    description:  a member of the DFG-project “ Damage modeling and optimal control” conducted at the chair of Applied Mathematics II, Prof\.Dr\. G&uumlnter Leugering.
+    description:  a member of the DFG-project L595/31-1 “ Damage modeling and optimal control” conducted at the chair of Applied Mathematics II, Prof\.Dr\. G&uumlnter Leugering.
        # * Analysing
        # * Modelling
        # * Deploying
