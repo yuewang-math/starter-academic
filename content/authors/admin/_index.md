@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: Ph.D of Natural Science in Applied Mathematics
-    institution: [Shanghai Center for Mathematics Sciences](http://www.scms.fudan.edu.cn/), Fudan University
+    institution: Shanghai Center for Mathematics Sciences, Fudan University
     # url: http://www.scms.fudan.edu.cn/
     year: 2015-2019
   - course: Bachelor of Science, Mathematics and Applied Mathematics
