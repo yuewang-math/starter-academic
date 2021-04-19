@@ -21,11 +21,11 @@ bio: My research interests include Applied Partial Differential Equations (PDEs)
 
 # Interests to show in About widget
 interests:
-- Dynamic Hyperbolic Systems Modelling, Analysis, Simulation
-- Controllablity and Observability Math proof and Design
-- Synchronization Theory for PDEs The Emerging Science of Spontaneous Order, related to Control Theory
-- Machine Learning in PDEs based on our models \(to do\)
-
+- Dynamic Hyperbolic Systems&colon Modelling, Analysis, Simulation
+- Controllablity and Observability&colon Math proof and Design
+- Synchronization Theory for PDEs&colon The Emerging Science of Spontaneous Order, related to Control Theory
+- Machine Learning in PDEs&colon based on our models \(to do\)
+ 
 # Education to show in About widget
 education:
   courses:
