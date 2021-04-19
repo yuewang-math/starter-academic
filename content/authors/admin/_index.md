@@ -30,10 +30,12 @@ interests:
 education:
   courses:
   - course: Ph.D of Natural Science in Applied Mathematics
-    institution: [Shanghai Center for Mathematics Sciences, Fudan University](http://www.scms.fudan.edu.cn/)
+    institution: ss
+    # [Shanghai Center for Mathematics Sciences, Fudan University](http://www.scms.fudan.edu.cn/)
     year: 2015-2019
   - course: Bachelor of Science, Mathematics and Applied Mathematics
-    institution: [Fudan University](https://math.fudan.edu.cn/)
+    institution: ff
+    # [Fudan University](https://math.fudan.edu.cn/)
     year: 2011-2015
 
 # Social/Academic Networking
