@@ -11,7 +11,7 @@ tagline:  Nolinear systems| Modelling & Analysis | Control Theory| Machine Learn
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of MATHEMATICS. Friedrich-Alexander-Universit&aumlt Erlangen-N&uumlrnberg. 91058 Erlangen \- Germany
+- name: Department of MATHEMATICS. Friedrich-Alexander-Universit&aumlt Erlangen-N&uumlrnberg. 91058 Erlangen-Germany
   url: https://www.math.fau.de/
 # - name: Chair in Applied Analysis – Alexander von Humboldt
 #  url: https://caa-avh.nat.fau.eu/
