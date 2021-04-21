@@ -23,6 +23,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- date_end: ""
+  date_start: "2019-09-01"
+  description: |2-
+       include:
+       * Direction.
+       * Funding.
+  organization: FAU
+  organization_url: https://www.coursera.org
+  title: Control Theory For Nonlinear PDEs
+  url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2015-09-01"
@@ -39,8 +49,7 @@ item:
   organization_url: ""
   title: CONTROLLABILITY AND SYNCHRONIZATION OF WAVE EQUATIONS
   url: ""
-- certificate_url:""
-  date_end: "2015-07-21"
+- date_end: "2015-07-21"
   date_start: "2015-03-01"
   description: ""
   organization: Fudan University
