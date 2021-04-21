@@ -23,14 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url:""
-  date_end: ""
-  date_start: "2019-09-01"
-  description: Prof. Dr. Günter Leugering
-  organization: FAU
-  organization_url: https://www.coursera.org
-  title: Control Theory For Nonlinear PDEs
-  url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2015-09-01"
