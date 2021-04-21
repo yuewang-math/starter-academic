@@ -42,8 +42,8 @@ item:
   title: EXACT BOUNDARY CONTROLLABILITY OF NODAL PROFILE FOR HYPERBOLIC SYSTEMS
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_end: ""
+  date_start: "2019-09-01"
   description: ""
   organization: Fudan University
   # organization_url: ""
