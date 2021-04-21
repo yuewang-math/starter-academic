@@ -46,22 +46,22 @@ item:
   date_start: "2020-07-01"
   description: ""
   organization: Fudan University
-  organization_url: ""
+  # organization_url: ""
   title: CONTROLLABILITY AND SYNCHRONIZATION OF WAVE EQUATIONS
   url: ""
 - date_end: "2015-07-21"
   date_start: "2015-03-01"
   description: ""
   organization: Fudan University
-  organization_url: ""
-  title: A TYPICAL ODE SYNCHRONIZATION MODEL : KURAMOTO MODEL
+  # organization_url: ""
+  title: A TYPICAL ODE SYNCHRONIZATION MODEL: KURAMOTO MODEL
   url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2014-12-21"
   date_start: "2013-07-01"
   description: ""
   organization: Fudan University
-  organization_url: ""
+  # organization_url: ""
   title: MOLECULAR MOTOR TRANSPORT MECHANISM
   url: ""
 design:
