@@ -54,7 +54,7 @@ item:
   description: ""
   organization: Fudan University
   # organization_url: ""
-  title: A TYPICAL ODE SYNCHRONIZATION MODEL\: KURAMOTO MODEL
+  title: A TYPICAL ODE SYNCHRONIZATION MODEL-KURAMOTO MODEL
   url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2014-12-21"
