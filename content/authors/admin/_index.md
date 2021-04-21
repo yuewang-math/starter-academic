@@ -70,11 +70,11 @@ email: "yue.wang@fau.de"
 highlight_name: true
 ---
 
-Yue Wang is a PostDoc in applied mathematics, she is in the area of Partial Differential Equations in Applications, one Dimensional Hyperbolic Systems and related topics in Modelling, Analysis and Controllability, Sychronization. 
+My field of expertise is in the area of Control Theory for PDEs (Partial Differential Equations) in Applications, one Dimensional Hyperbolic Systems and related topics in Modelling, Analysis and Control Design, Sychronization. 
 
-She was graduated from Fudan University with a bachelor's degree in Mathematics and Applied Mathematics in 2015, and entered the Shanghai Mathematics Center with a direct Ph.D. major in applied mathematics. He graduated one year earlier in 2019 and obtained his degree in June. In September of the same year, she went to Germany FAU (Erlangen-Nuremberg University) as a full-time research assistant (postdoctoral).
+I got my bachlor degree in Mathematics and Applied Mathematics from the Fudan University, Shanghai (2015) and the Doctor degree from Shanghai Mathematics Center in the same university (2019) one year in advance. In September of the same year, I came to Germany for an DFG-project as a full-time research assistant (postdoctoral) in FAU (Erlangen-Nuremberg University).
 
-
+I am always loving Mathematics - it opens a window onto the order of nature hidden - brings me a story of life to understand the world I am in - and involves me in it emotionally and intellectually. For me, it is more like a language and thinking in brain, like lierature rather than calculation and numbers. AND YOU WILL FIND - a Math-man is always of great passion in this subject, that's the magic and actraction of Mathmetics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
