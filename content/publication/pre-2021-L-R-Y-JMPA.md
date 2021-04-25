@@ -5,7 +5,7 @@ date = "2021-04-01"
 image_preview = ""
 math = false
 publication_types = ["3"]
-publication = "submitted to *Journal de Math$\check{e}$matiques Pures et Appliquées*"
+publication = "submitted to *Journal de Mathematiques Pures et Appliquées*"
 publication_short = "submitted to JMPA"
 
 
