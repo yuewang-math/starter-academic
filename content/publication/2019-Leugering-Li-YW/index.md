@@ -24,7 +24,8 @@ publication_types: [“6”]
 publication: "Trends in Control Theory and Partial Differential Equations. Springer INdAM Series, vol 32. *Springer International Publishing*”
 publication_short: “Spring, Cham”
 
-abstract: We consider the out-of-the-plane displacements of nonlinear elastic strings which are coupled through point masses attached to the ends and viscoelastic springs. We provide the modeling, the well-posedness in the sense of classical semi-global C2-solutions together with some extra regularity at the masses and then prove exact boundary controllability and velocity-feedback stabilizability, where controls act on both sides of the mass-spring-coupling.
+abstract: We consider
+# the out-of-the-plane displacements of nonlinear elastic strings which are coupled through point masses attached to the ends and viscoelastic springs. We provide the modeling, the well-posedness in the sense of classical semi-global C2-solutions together with some extra regularity at the masses and then prove exact boundary controllability and velocity-feedback stabilizability, where controls act on both sides of the mass-spring-coupling.
 
 
 # Summary. An optional shortened abstract.
