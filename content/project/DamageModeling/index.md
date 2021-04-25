@@ -3,6 +3,7 @@ title: Damage Modeling and Optimal Controls.
 summary: Sustainable Optimal Controls for Nonlinear Partial Differential Equations with Applications. Relaxation, Approximation and Optimality Conditions.
 tags:
 - Damage Modeling
+- Optimal Control
 date_start: '2019-09-01'
 date_end: ''
 
