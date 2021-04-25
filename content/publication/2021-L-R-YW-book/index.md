@@ -33,7 +33,7 @@ featured: true
 
 links:
 - name: Custom Link(English Version)
-   url: https://www.springer.com/gp/book/9783030328481
+  url: https://www.springer.com/gp/book/9783030328481
 url_pdf: ''
 url_code: ''
 url_dataset: ''
