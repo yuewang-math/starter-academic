@@ -4,10 +4,10 @@ authors:
 - Tatsien Li
 - Bopeng Rao
 - admin
- author_notes:
+author_notes:
  - "author"
  - "author"
- - "tran."
+ - "trans"
 date: "2019–02-01T00:00:00Z"
 doi: ""
 
