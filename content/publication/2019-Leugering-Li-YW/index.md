@@ -3,7 +3,7 @@ title: "1-d Wave Equations Coupled via Viscoelastic Springs and Masses: Boundary
 authors:
 - G. Leugering
 - T. T. Li
-- **Y. Wang**
+- Y. Wang
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
