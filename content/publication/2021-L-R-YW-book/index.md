@@ -31,9 +31,9 @@ tags:
 - Source Themes
 featured: true
 
-# links:
-# - name: English Version
-#   url: https://www.springer.com/gp/book/9783030328481
+links:
+- name: English Version
+   url: https://www.springer.com/gp/book/9783030328481
 url_pdf: ''
 url_code: ''
 url_dataset: ''
