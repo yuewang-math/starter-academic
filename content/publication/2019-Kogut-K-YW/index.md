@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Optimization Theory and Applications*"
-publication_short: “JODEA”
+publication_short: JODEA
 
 abstract: In this paper we discuss some issues related to the deriving and substantiation of Poincare’s inequality for a special class of weighted Sobolev spaces. A common feature of these spaces is that they can be naturally associated with differential operators with variable diffusion coefficients that are not uniformly elliptic. We give a classification of these spaces in 1D case basing on a measure of degeneracy of the corresponding weight coefficient and study their key properties.
 
