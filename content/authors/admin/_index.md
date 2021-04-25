@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Yue Wang
+title: Yue Wang
 
 # Is this the primary user of the site?
 superuser: true

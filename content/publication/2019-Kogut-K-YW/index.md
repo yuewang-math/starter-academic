@@ -1,9 +1,9 @@
 ---
 title: "A Note on Weighted Sobolev Spaces Related to Weakly and StronglyDegenerate Differential Operators"
 authors:
-- Peter I. Kogut
-- Olha P. Kupenko
-- Y. Wang
+- P.I. Kogut
+- O.P. Kupenko
+- admin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

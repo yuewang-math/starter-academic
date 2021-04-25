@@ -1,5 +1,5 @@
 +++
-authors = ["Y. Wang", "Tatisen Li"]
+authors = ["admin", "Tatsien Li"]
 
 date = "2019-10-02"
 image_preview = ""
