@@ -10,7 +10,7 @@ date_end: ''
 external_link: ""
 
 image:
-  caption: German Research Foundation\: DFG L595/31\-1
+  caption: German Research Foundation. DFG L595/31-1
   focal_point: Smart
 
 links:
