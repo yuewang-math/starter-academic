@@ -3,11 +3,11 @@ title: "A Note on Weighted Sobolev Spaces Related to Weakly and StronglyDegener
 authors:
 - Peter I. Kogut
 - Olha P. Kupenko
-- admin
+- Y. Wang
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2019-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -67,12 +67,13 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management #software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+This work is supported by *German Research Foundation - DFG L595/31-1*. 
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
