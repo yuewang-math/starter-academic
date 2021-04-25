@@ -1,17 +1,16 @@
 ---
-title: "Exact boundary controllability for a coupled system of quasilinear wave equations with dynamical boundary conditions"
+title: "Exact boundary controllability on a planar tree-like network of vibrating strings with dynamical boundary conditions"
 authors:
-- admin
-- G. Leugering
 - Tatsien Li
+- admin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2019–02-01T00:00:00Z"
+date: "2018–09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-02-06T00:00:00Z"
+publishDate: "2018-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,10 +19,10 @@ publishDate: "2019-02-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nonlinear Analysis: Real World Applications*"
-publication_short: NONRWA
+publication: "*Journal of Mathematical Study*"
+publication_short: J. Math. Study
 
-abstract: By means of an equivalent non-local boundary condition, and noting a hidden regularity of solution on the boundary with end mass, the authors use a constructive method with modular structure to obtain local exact boundary controllability for a coupled system of quasilinear wave equations with dynamical boundary conditions. Some applications are given for the chain-like and star-like system of strings coupled via springs, respectively.
+abstract: This paper concerns a planar tree-like network of vibrating strings with point masses at the nodes. We use a constructive method with modular structure to get the 'one-sided' exact boundary controllability for this system with dynamical boundary conditions. Moreover, by constructing the 'longest' chain-like subnetwork and its 'midpoint', we divide the whole tree-like network into two tree-like sub-networks, and prove the 'two-sided' exact boundary controllability. 
  
 
 
@@ -40,7 +39,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://www.sciencedirect.com/science/article/abs/pii/S146812181830066X
+url_source: https://global-sci.org/intro/article_detail/jms/12656.html
 url_video: ''
 
 # Featured image
