@@ -1,5 +1,6 @@
 ---
-title: "1-d Wave Equations Coupled via Viscoelastic Springs and Masses: BoundaryControllability of a quasilinear and exponential stabilizability of a linear model"
+title: "1-d Wave Equations Coupled via Viscoelastic Springs and Masses: Boundary
+Controllability of a quasilinear and exponential stabilizability of a linear model"
 authors:
 - G. Leugering
 - T. T. Li
@@ -29,9 +30,9 @@ abstract: We consider the out-of-the-plane displacements of nonlinear elastic st
 # Summary. An optional shortened abstract.
 summary: We consider the out-of-the-plane displacements of nonlinear elastic strings which are coupled through point masses attached to the ends and viscoelastic springs. We provide the modeling, the well-posedness in the sense of classical semi-global C2-solutions together with some extra regularity at the masses and then prove exact boundary controllability and velocity-feedback stabilizability, where controls act on both sides of the mass-spring-coupling.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
@@ -67,15 +68,15 @@ projects: []
 slides: ""
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management #software.
-#{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management #software.
+# {{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
 Cite this chapter as\:
 Leugering G., Li T., Wang Y. (2019) 1-d Wave Equations Coupled via Viscoelastic Springs and Masses: Boundary Controllability of a Quasilinear and Exponential Stabilizability of a Linear Model. In: Alabau-Boussouira F., Ancona F., Porretta A., Sinestrari C. (eds) Trends in Control Theory and Partial Differential Equations. Springer INdAM Series, vol 32. Springer, Cham. https://doi.org/10.1007/978-3-030-17949-6_8
 
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
