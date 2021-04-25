@@ -66,4 +66,6 @@ item:
   url: ""
 design:
   columns: '2' 
+  view: 5
+  flip_alt_rows: false
 ---
