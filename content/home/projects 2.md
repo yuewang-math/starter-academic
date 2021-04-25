@@ -1,4 +1,4 @@
-+++
+---
 # Projects widget.
 widget: projects
 
@@ -62,4 +62,4 @@ filter_default = 0
   [[filter]]
     name = "Descriptive Phonetics"
     tag = ".Descriptive-Phonetics"
-+++
+---
