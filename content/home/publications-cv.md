@@ -2,14 +2,14 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication-cv/`.
 widget = "publications"
-active = false
+active = true
 date = 2016-04-20
 
 title = "Publications"
 subtitle = "Posters & Publications"
 
 # Order that this section will appear in.
-weight = 14
+weight = 85
 
 # Number of publications to list.
 count = 15
