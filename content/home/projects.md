@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: Research
+subtitle: I am working on…
 
 content:
   # Page type to display. E.g. project.
@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Damage Modeling and Optimal Controls.
+  - name: PostDoc
     tag: Damage Modeling
+  - name: PhD
+    tag: Demo
+  - name: Bachelor
+    tag: Demo
   - name: Other
     tag: Demo
 
