@@ -7,7 +7,7 @@ authors:
 author_notes:
  - "author"
  - "author"
- - "trans"
+ - "ed. and trans."
 date: "2019–02-01T00:00:00Z"
 doi: ""
 
@@ -29,7 +29,7 @@ abstract: This book is an academic translation (the Chinese edition) of the book
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: English Version
