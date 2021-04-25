@@ -1,9 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Damage Modeling and Optimal Controls.
+summary: Sustainable Optimal Controls for Nonlinear Partial Differential Equations with Applications: Relaxation, Approximation and Optimality Conditions.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Damage Modeling
+date_start: '2019-09-01'
+date_end: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
