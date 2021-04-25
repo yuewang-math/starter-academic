@@ -25,11 +25,17 @@ abstract: We consider networks of elastic strings with end masses, where the cou
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:[]
-# - Source Themes
-featured: false
+tags = []
 
-links:[]
+featured = false
+
+
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
