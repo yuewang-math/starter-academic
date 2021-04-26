@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: PostDoc
-    tags: 
-    - Damage Modeling
-    - Nodal Profile
+  - name: Damage Modeling
+    tag: Damage Modeling
+  - name: Nodal Controllable Network
+    tag: Nodal Profile
   - name: PhD
     tag: Demo
   - name: Bachelor
