@@ -27,10 +27,7 @@ url_slides: ""
 url_video: ""
 url_poster: content/project/String-Spring-Mass/CAAposter-YueWang-DAAlogo.pdf
 
-image:
-  caption: 'Shallow Water System'
-  focal_point: ""
-  preview_only: false
+image: ""
 
 
 # Slides (optional).

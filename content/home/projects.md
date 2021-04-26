@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Damage Modeling
+  - name: Damge Modeling
     tag: Damage Modeling
-  - name: Nodal Controllable Network
+  - name: Nodal Control
     tag: Nodal Profile
-  - name: PhD
-    tag: Demo
+  - name: Hyperbolic system Network
+    tag: Network
   - name: Bachelor
     tag: Demo
   - name: Other
