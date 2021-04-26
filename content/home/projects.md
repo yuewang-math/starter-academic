@@ -28,7 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: PostDoc
-    tag: Damage Modeling
+    tags: 
+	- Damage Modeling
+	- Nodal Profile
   - name: PhD
     tag: Demo
   - name: Bachelor
@@ -45,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

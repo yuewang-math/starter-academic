@@ -41,9 +41,9 @@ image:
 slides:  ""
 
 ---
-** RESEARCH DIRECTIONS:**
 
-|2-
+**RESEARCH DIRECTIONS:**
+Description: |2-
 Exact boundary controllability of nodal profile for (a coupled system of) hyperbolic systems:
  * Nonlinear case. Classical solution. Based on the constructive method to design controls. Study on Vibrating strings on network with/without loops, geometrically exact beams, shallow water system. 
  * Linear case. Weak solution. Based on HUM and duality method to establish the relationship between controllability of nodal profile and the corresponding observability problem. Design HUM control.
