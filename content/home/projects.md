@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: PostDoc
     tags: 
-	- Damage Modeling
-	- Nodal Profile
+    - Damage Modeling
+    - Nodal Profile
   - name: PhD
     tag: Demo
   - name: Bachelor
