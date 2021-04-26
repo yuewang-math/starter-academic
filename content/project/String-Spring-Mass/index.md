@@ -25,14 +25,13 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+url_poster: content/project/String-Spring-Mass/CAAposter-YueWang-DAAlogo.pdf
 
-[[url_custom]]
-  name: Poster
-  url: content/project/String-Spring-Mass/CAAposter-YueWang-DAAlogo.pdf
+image:
+  caption: 'Shallow Water System'
+  focal_point: ""
+  preview_only: false
 
-[header]
-    caption: Shallow Water System
-    image: content/project/String-Spring-Mass/Shallowwater
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
