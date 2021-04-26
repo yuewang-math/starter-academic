@@ -27,7 +27,6 @@ url_slides: ""
 url_video: ""
 url_poster: content/project/String-Spring-Mass/CAAposter-YueWang-DAAlogo.pdf
 
-image: ""
 
 
 # Slides (optional).

@@ -32,7 +32,7 @@ content:
   - name: Nodal Control
     tag: Nodal Profile
   - name: Hyperbolic system Network
-    tag: Network
+    tag: Demo
   - name: Bachelor
     tag: Demo
   - name: Other
