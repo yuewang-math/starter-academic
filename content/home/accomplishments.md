@@ -65,7 +65,7 @@ item:
   title: MOLECULAR MOTOR TRANSPORT MECHANISM
   url: ""
 design:
-  columns: ‘1’ 
+  columns: ‘2’ 
   view: 3
   flip_alt_rows: false
 ---
