@@ -12,7 +12,7 @@ date_end: ''
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image: ""
+# image: ""
 #  caption: German Research Foundation. DFG L595/31-1
 #  focal_point: Smart
 
