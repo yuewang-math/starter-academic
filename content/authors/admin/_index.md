@@ -11,7 +11,7 @@ tagline:  Applied Mathematics | Nolinear systems| PDE Modelling & Analysis | Con
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Friedrich-Alexander-Universität Erlangen-Nürnberg, Faculty of Sciences, Department of Data Science, Chair for Dynamics, Control and Numerics
+- name: Friedrich\-Alexander\-Universität Erlangen\-Nürnberg, Faculty of Sciences, Department of Data Science, Chair for Dynamics, Control and Numerics
   url: https://dcn.nat.fau.eu/
 
 
