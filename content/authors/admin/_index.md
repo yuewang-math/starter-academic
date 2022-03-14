@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Post Doc of applied mathematics
-tagline:  Applied Mathematics | Nolinear systems| PDE Modelling & Analysis | Control Theory| Machine Learning
+tagline:  Applied Mathematics | Nonlinear systems| PDE Modelling & Analysis | Control Theory| Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,7 +24,7 @@ interests:
  - Control Theory\-Controllability, Observability, Nodal Control
  - Modeling and Control Design on Networks with degeneration
  - Synchronization Theory for PDEs 
- - Machine Learning in PDEs\-model-based and data-based approach \(to do\)
+ - Machine Learning in PDEs\-model\-based and data\-based approach \(to do\)
  
 # Education to show in About widget
 education:
@@ -69,13 +69,13 @@ email: "yue.wang@fau.de"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I am Yue from China. I got my bachlor degree in Mathematics and Applied Mathematics from the Fudan University, Shanghai (2015) and the Doctor degree from Shanghai Mathematics Center in the same university (2019). In September of the same year, I came to Germany for an DFG-project as a full-time research assistant (postdoctoral) in FAU (Erlangen-Nuremberg University).
+Hi, I am Yue from China. I got my bachlor degree in Mathematics and Applied Mathematics from the Fudan University, Shanghai \(2015\) and the Doctor degree from Shanghai Mathematics Center in the same university (2019). In September of the same year, I came to Germany for an DFG\-project as a full\-time research assistant (postdoctoral) in FAU (Erlangen\-Nuremberg University).
 
 I am currently working at the Chair of Dynamics, Control and Numerics led by Enrique Zuazua at the Department of Data Science in FAU. 
-My field of expertise is in the area of control theory for PDEs (Partial Differential Equations) in applications, especially for nonlinear hyperbolic systems. My research focuses on control problems on networks and related topics in modeling, analysis, control design, sychronization, and learning. 
+My field of expertise is in the area of control theory for PDEs \(Partial Differential Equations\) in applications, especially for nonlinear hyperbolic systems. My research focuses on control problems on networks and related topics in modeling, analysis, control design, sychronization, and learning. 
 
 
-I am always loving Mathematics - it opens a window onto the order of nature hidden - brings me a story of life to understand the world I am in - and involves me in it emotionally and intellectually. For me, it is more like a language and thinking in brain, like lierature rather than calculation and numbers. AND YOU WILL FIND - a Math-man is always of great passion in this subject, that's the magic and actraction of Mathmetics.
+I am always loving Mathematics \- it opens a window onto the order of nature hidden - brings me a story of life to understand the world I am in \- and involves me in it emotionally and intellectually. For me, it is more like a language and thinking in brain, like lierature rather than calculation and numbers. AND YOU WILL FIND \- a Math\-man is always of great passion in this subject, that's the magic and actraction of Mathmetics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
