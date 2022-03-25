@@ -6,12 +6,12 @@ title: Yue Wang
 superuser: true
 
 # Role/position/tagline
-role: Post Doc of applied mathematics
+role: Junior Group Leader 
 tagline:  Applied Mathematics | Nonlinear systems| PDE Modelling & Analysis | Control Theory| Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Friedrich\-Alexander\-Universität Erlangen\-Nürnberg, Faculty of Sciences, Department of Data Science, Chair for Dynamics, Control and Numerics
+- name: Friedrich-Alexander-Universität Erlangen-Nürnberg, Department of Data Science, Chair for Dynamics, Control and Numerics
   url: https://dcn.nat.fau.eu/
 
 
@@ -24,7 +24,7 @@ interests:
  - Control Theory\-Controllability, Observability, Nodal Control
  - Modeling and Control Design on Networks with degeneration
  - Synchronization Theory for PDEs 
- - Machine Learning in PDEs\-model\-based and data\-based approach \(to do\)
+ - Machine Learning in PDEs\-model\-based and data\-based approach 
  
 # Education to show in About widget
 education:
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yue.wang@fau.de"
