@@ -6,7 +6,7 @@ title: Yue Wang
 superuser: true
 
 # Role/position/tagline
-role: Junior Group Leader 
+role: Senior Scientist \& Junior Group Leader 
 tagline:  Applied Mathematics | Nonlinear systems| PDE Modelling & Analysis | Control Theory| Machine Learning
 
 # Organizations/Affiliations to show in About widget
@@ -69,13 +69,13 @@ email: "yue.wang@fau.de"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I am Yue from China. I got my bachlor degree in Mathematics and Applied Mathematics from the Fudan University, Shanghai \(2015\) and the Doctor degree from Shanghai Mathematics Center in the same university (2019). In September of the same year, I came to Germany for an DFG\-project as a full\-time research assistant (postdoctoral) in FAU (Erlangen\-Nuremberg University).
+Yue Wang got her Bachelor degree (2015) and Doctor degree (2019) in Mathematics and Applied Mathematics from Fudan University, Shanghai, China. Her PhD was conducted in the research group Analysis and Applied PDEs located at Shanghai Center of Mathematics, and was supervised by Prof. Tatsien Li.  After that, she did the 2-year PostDoc at the Chair of Applied Mathematics II led by Günter Leugering in FAU Erlangen-Nuremberg. She is currently working at the Chair of Dynamics, Control and Numerics led by Enrique Zuazua at the Department of Data Science (DDS) and Research Center for Mathematics of Data (MoD) in FAU.  
 
-I am currently working at the Chair of Dynamics, Control and Numerics led by Enrique Zuazua at the Department of Data Science in FAU. 
-My field of expertise is in the area of control theory for PDEs \(Partial Differential Equations\) in applications, especially for nonlinear hyperbolic systems. My research focuses on control problems on networks and related topics in modeling, analysis, control design, sychronization, and learning. 
+Her field of expertise is in the area of Control Theory for Partial Differential Equations (PDEs), especially nonlinear hyperbolic systems. Her research focuses on control problems on networks and related topics in modeling, analysis, control design, sychronization, and learning.
 
+She said: " I am always loving Mathematics \- it opens a window onto the order of nature hidden - brings me a story of life to understand the world I am in \- and involves me in it emotionally and intellectually. "
 
-I am always loving Mathematics \- it opens a window onto the order of nature hidden - brings me a story of life to understand the world I am in \- and involves me in it emotionally and intellectually. For me, it is more like a language and thinking in brain, like lierature rather than calculation and numbers. AND YOU WILL FIND \- a Math\-man is always of great passion in this subject, that's the magic and actraction of Mathmetics.
+# For me, it is more like a language and thinking in brain, like lierature rather than calculation and numbers. AND YOU WILL FIND \- a Math\-man is always of great passion in this subject, that's the magic and actraction of Mathmetics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
