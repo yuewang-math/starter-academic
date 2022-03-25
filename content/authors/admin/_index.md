@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yue.wang@fau.de"
@@ -78,4 +78,4 @@ My field of expertise is in the area of control theory for PDEs \(Partial Differ
 I am always loving Mathematics \- it opens a window onto the order of nature hidden - brings me a story of life to understand the world I am in \- and involves me in it emotionally and intellectually. For me, it is more like a language and thinking in brain, like lierature rather than calculation and numbers. AND YOU WILL FIND \- a Math\-man is always of great passion in this subject, that's the magic and actraction of Mathmetics.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
