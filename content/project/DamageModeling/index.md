@@ -5,7 +5,7 @@ tags:
 - Damage Modeling
 - Optimal Control
 date_start: '2019-09-01'
-date_end: ''
+date_end: '2021-08-31'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,7 +32,11 @@ url_video: ""
 slides:  ""
 ---
 
+I was a postdoctoral researcher working in this project.
+
+
 Project Summary:
+
 Optimization and Control under constraints typically leads to full exploitation of the resources. Therefore, as a rule, the resulting optimal controls exert significant inputs to the system under consideration. In particular, in the context of continuum mechanics and, say, time-minimum final profile control, large control forces may, in the long run, introduce damage to the system until complete failure occurs. We are, thus, faced with a dilemma: On the one hand we want to achieve our objective, say, in minimum time, while on other hand we would like to save the infrastructure. In other words, we would like to apply controls that maintain or enhance sustainability. Obviously, the interaction of controls and the evolution of damage in the corresponding material or structure heavily depends on the particular type of process and the material characteristics. 
 
 The project focuses on a detailed analysis of different aspects (such as relaxation, approximation, regularization) of optimal controls problems for parabolic and hyperbolic initial-boundary value problems for elastic bodies arising, e.g. in contact mechanics, coupled systems, composite materials, where 'life-cycle-optimization' appears as a challenge. 
