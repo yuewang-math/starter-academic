@@ -35,7 +35,7 @@ education:
     year: 2015-2019
   - course: Bachelor of Science, Mathematics and Applied Mathematics
     institution: Fudan University
-    # [Fudan University](https://math.fudan.edu.cn/)
+    # [Fudan University] (https://math.fudan.edu.cn/)
     year: 2011-2015
 
 # Social/Academic Networking
@@ -52,9 +52,9 @@ social:
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
- - icon: linkedin
-    icon_pack: fab
-    link: linkedin.com/in/yue-wang-b2844a21b
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://linkedin.com/in/yue-wang-b2844a21b
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
