@@ -75,7 +75,5 @@ Her field of expertise is in the area of Control Theory for Partial Differential
 
 She said: " I am always loving Mathematics \- it opens a window onto the order of nature hidden - brings me a story of life to understand the world I am in \- and involves me in it emotionally and intellectually. "
 
-# For me, it is more like a language and thinking in brain, like lierature rather than calculation and numbers. AND YOU WILL FIND \- a Math\-man is always of great passion in this subject, that's the magic and actraction of Mathmetics.
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
